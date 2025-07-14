@@ -15,5 +15,5 @@ Bu projede, hem TÜİK verileri hem de akademik kaynaklardan elde edilen veriler
 Analiz sonucunda eğitim seviyeleri arttıkça işsizlik oranlarında belirli değişimler gözlemlenmiş, veriler arası tutarlılık sorgulanmıştır.
 Detaylı analiz ve yorumları içeren dosyayı aşağıdaki bağlantıdan inceleyebilirsiniz:
 
-👉 Yorumlama ve Analiz
+👉 [Yorumlama ve Analiz](./Yorumlama%20ve%20Analiz.pdf)
 

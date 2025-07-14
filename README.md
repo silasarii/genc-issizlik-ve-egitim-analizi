@@ -19,6 +19,8 @@ Detaylı analiz ve yorumları içeren dosyayı aşağıdaki bağlantıdan incele
 
 ## Katkıda Bulunan
 Sıla Sarı
+
 Dokuz Eylül Üniversitesi, Ekonometri
+
 LinkedIn:www.linkedin.com/in/sıla-sarı-5293451a4
 

@@ -17,3 +17,8 @@ Detaylı analiz ve yorumları içeren dosyayı aşağıdaki bağlantıdan incele
 
 👉 [Yorumlama ve Analiz](./Yorumlama%20ve%20Analiz.pdf)
 
+## Katkıda Bulunan
+Sıla Sarı
+Dokuz Eylül Üniversitesi, Ekonometri
+LinkedIn:www.linkedin.com/in/sıla-sarı-5293451a4
+

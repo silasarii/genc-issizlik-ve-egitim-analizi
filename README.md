@@ -1,7 +1,3 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b7a063af-9787-4d01-97fa-77011cbfc469" />
-
----
-
 # Genç İşsizlik ve Eğitim Alanları Arasındaki İlişki (Türkiye)
 Bu proje, TÜİK ve akademik çalışmalardan alınan veriler üzerinden Türkiye’de genç işsizlik oranları ile eğitim seviyeleri arasındaki ilişkiyi analiz etmektedir.
 ## Kullanılan Araçlar

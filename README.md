@@ -47,5 +47,5 @@ Analiz sürecinde iki kaynak arasında belirgin farklılıklar tespit edilmişti
 
 ## Geliştirici
 Sıla Sarı -- Dokuz Eylül Üniversitesi, Ekonometri  
-LinkedIn:www.linkedin.com/in/sıla-sarı
+LinkedIn: www.linkedin.com/in/sıla-sarı
 
